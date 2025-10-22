@@ -1,0 +1,21 @@
+berikut merupakan sintaks yang salah
+```java
+package Function;
+
+public class Function {
+
+  public hitungJumlah(int a, int b) {
+    return a + b;
+  }
+
+  public static void main(String[] args) {
+    int a = 10;
+    int b = 8;
+    int jumlah = hitungJumlah(a, b);
+
+    System.out.println(jumlah);
+  }
+}
+```
+diberikan sintaks yang salah, tugas kamu adalah membenarkan sintaks yang ada sehingga output yang dihasilkan adalah 18
+

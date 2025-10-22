@@ -1,0 +1,15 @@
+isi dari kode yang salah adalah 
+```java
+package Perulangan1
+public class Perulangan1 {
+  public static void main(String[] args) {
+    for (int i = 0; i < 10; i++); {
+      System.out.println("Hello world"); 
+    }
+  }
+}
+
+// Output yang diharapkan adalah string "Hello world" yang diprint secara berulang kebawah
+
+````
+diberikan sintaks yang salah,tugas kamu adalah membenarkan sintaks tersebut sehingga output yang dihasilkan adalah tulisan "Hello world" yang akan berulang sebanyak 10 kali, dan berulang secara kebawah

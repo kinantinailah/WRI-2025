@@ -1,0 +1,19 @@
+
+isi dari kode yang salah adalah 
+```java
+package NestedLoop;
+
+public class NestedLoop {
+
+  public static void main(String[] args) {
+    for (int i = 0; i < 10; i++) {
+      for (int j = 0; i < i; j++) {
+        System.out.print("*");
+      }
+      System.out.println();
+    }
+  }
+}
+
+````
+diberikan sintaks yang salah,tugas kamu adalah membenarkan sintaks tersebut sehingga output yang dihasilkan adalah sebuah segitiga yang disusun dari karakter * dengan bentuk segitiga siku siku dengan tinggi 10 karakter *
