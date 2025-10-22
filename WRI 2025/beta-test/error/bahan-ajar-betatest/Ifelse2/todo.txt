@@ -1,0 +1,28 @@
+isi dari kode yang salah adalah 
+```java
+package Ifelse2;
+
+public class Ifelse2 {
+
+  public static void main(String[] args) {
+    int score = 85;
+
+    if (score >= 50) {
+      System.out.println("Grade: E");
+    } else if (score >= 70) {
+      System.out.println("Grade: C");
+    } else if (score >= 80) {
+      System.out.println("Grade: B");
+    } else if (score >= 90) {
+      System.out.println("Grade: A");
+    } else {
+      System.out.println("Grade: Tidak Valid");
+    }
+  }
+}
+
+// Output yang diharapkan adalah "Grade: B"
+
+````
+diberikan sintaks yang salah,tugas kamu adalah membenarkan sintaks tersebut sehingga output yang dihasilkan adalah 
+"Grade: B"

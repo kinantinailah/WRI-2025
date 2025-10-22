@@ -1,0 +1,19 @@
+berikut merupakan potongan kode awal yang salah
+```java
+package Function2;
+public class Function2 {
+
+  public String[] pangkatTiga(int n) {
+    return (n * n * n);
+  }
+
+  public static void main(String[] args) {
+    int angka = 2;
+    System.out.println(pangkaTiga(angka))
+  }
+}
+
+
+```
+
+diberikan sintaks yang salah, tugas kamu adalah membenarkan sintaks yang ada sehingga output yang dihasilkan adalah 8

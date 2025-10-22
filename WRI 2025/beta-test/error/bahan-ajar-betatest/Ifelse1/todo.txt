@@ -1,0 +1,15 @@
+isi dari kode yang salah adalah 
+```java
+package Ifelse1;
+public class Ifelse1 {
+  public static void main(String[] args) {
+    int angka = 10;
+    if(angka < 20){
+      System.out,println("Aku Lebih Kecil");
+    } 
+  }
+}
+
+````
+diberikan sintaks yang salah,tugas kamu adalah membenarkan sintaks tersebut sehingga output yang dihasilkan adalah 
+"Aku Lebih Kecil"
